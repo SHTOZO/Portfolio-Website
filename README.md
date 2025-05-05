@@ -21,13 +21,6 @@ A modern portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 - Framer Motion
 - React Icons
 
-## Deployment
-
-The site can be easily deployed to Vercel:
-
-1. Push your code to GitHub
-2. Import your repository to Vercel
-3. Deploy!
 
 ## License
 
