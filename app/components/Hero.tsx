@@ -83,8 +83,8 @@ export default function Hero() {
           className="flex justify-center gap-6 mb-12"
         >
           <a 
-            href="/OssamaSafaResume.pdf" 
-            download="OssamaSafaResume.pdf"
+            href="/OssamaSafa_CV.pdf" 
+            download="OssamaSafa_CV.pdf"
             className="p-3 rounded-full bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110"
           >
             <FaFileDownload className="text-2xl text-gray-800 dark:text-white" />
