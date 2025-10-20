@@ -2,6 +2,8 @@
 
 A modern portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
+osamasafa.netlify.app
+
 ## Features
 
 - Responsive design
